@@ -4,8 +4,7 @@ A responsive and modern restaurant landing page built using **HTML**, **CSS**, a
 
 ## 🌐 Live Demo
 
-restaurant-app-taupe-eta.vercel.app
-
+https://restaurant-app-taupe-eta.vercel.app/
 
 ## 📌 Features
 
