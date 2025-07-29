@@ -4,7 +4,8 @@ A responsive and modern restaurant landing page built using **HTML**, **CSS**, a
 
 ## 🌐 Live Demo
 
-[https://github.com/amna1475/Restaurant-App](https://amna1475.github.io/Restaurant-App/)
+https://amna1475.github.io/Restaurant-App/
+
 
 ## 📌 Features
 
